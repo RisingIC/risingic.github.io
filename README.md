@@ -1,2 +1,2 @@
-# risingic.github.io
+# RisingIC.cn
 RisingIC.cn
