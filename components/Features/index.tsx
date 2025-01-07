@@ -14,7 +14,7 @@ const Feature = () => {
           <SectionHeader
             headerInfo={{
               title: "ERSHENG FEATURES",
-              subtitle: "Core Features of Ersheng",
+              subtitle: "Features of Ersheng",
               description: `Automotive accessories factory rely on to maximize your car experience.`,
             }}
           />
